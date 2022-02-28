@@ -1,0 +1,65 @@
+id: PAA1AA5AA
+initial_creation_type: input
+source_metadata:
+  title: Kangyur
+  language: fr
+  description: 'Texts from and related to the Kangyur (bka'' ''gyur), the Tibetan
+    canonical collection of the Buddha''s Word (bka'') in translation (''gyur):'
+  volume:
+    a83e413806334e7089aa54e7b275028f:
+      title: The Heart of the Transcendent Perfection of Wisdom
+      parent: Sūtra
+    42857bf446e041c7a7f6f4d56f2da1b5:
+      title: The Noble Mahāyāna Sūtra entitled The Wisdom of the Hour of Death
+      parent: Sūtra
+    a04c136a8fab40abbc7e780c9aa6ca3f:
+      title: The Noble Sūtra Teaching the Eleven Perceptions
+      parent: Sūtra
+    bad87e44ccb74972857b811e37b6ff8c:
+      title: The Noble Sūtra of Recalling the Three Jewels
+      parent: Sūtra
+    b302c183698744f784fb2bfce42ce722:
+      title: The Noble Sūtra of the Teaching on the Four Factors
+      parent: Sūtra
+    12f99f690cc24dc8898abc85c452943e:
+      title: The Perfection of Wisdom, Mother of All Tathāgatas, ‘In One Syllable’
+      parent: Sūtra
+    427c759b588042138e8d581af1bee593:
+      title: The Sūtra of Boundless Life and Wisdom
+      parent: Sūtra
+    ed0a30a0820f4aefb7447acc688d604a:
+      title: A Section of the Vajrakīla Root Tantra
+      parent: Tantra
+    3e42630c6d904c24a40a2b948990a653:
+      title: The Auspicious Verses of the Seven Successive Buddhas
+      parent: Tantra
+    9695b7265840482294a8c343f18232c1:
+      title: The Noble Mārīcī Dhāraṇī
+      parent: Tantra
+    e82af1e69df84da8bff806dcbb0963bd:
+      title: The Praise to Tārā with Twenty-One Verses of Homage and The Excellent
+        Benefits of Reciting the Praise
+      parent: Tantra
+    1bb0cf29dd704d779107031a86385273:
+      title: The Dhāraṇī of Stream of Wealth (Vasudhārā)
+      parent: Dhāraṇī
+    f62c55d94771433a92caa25de8b4a67d:
+      title: 'The King of Aspiration Prayers: Samantabhadra''s “Aspiration to Good
+        Actions” (Zangchö Mönlam)'
+      parent: Dhāraṇī
+    657b571079fc4204ba919356ce425566:
+      title: The Noble Dhāraṇī of The Supreme Accomplishment of Sitātapatrā Born from
+        the Tathāgata’s Uṣṇīṣa, the Great Invincible Dispeller
+      parent: Dhāraṇī
+    5c92d7301d0b49109c9a00f8685ea501:
+      title: The Noble Essence of Dependent Origination
+      parent: Dhāraṇī
+    80768e4d22f14b53bd843b4990803b53:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      parent: Dhāraṇī
+    b5bba51d0ba649c88d3e2421d747c50b:
+      title: The Dhāraṇīs That Encapsulate the Essence of the Kangyur, the Collected
+        Words of the Buddha
+      parent: Dhāraṇī
+created_at: '2022-03-01T04:03:55.007629'
+last_modified_at: '2022-03-01T04:03:55.007632'
